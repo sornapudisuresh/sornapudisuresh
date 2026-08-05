@@ -6,7 +6,7 @@ Led the growth of a 43-engineer organization from inception while delivering pro
 
 Experienced in leading remote-first, globally distributed engineering teams across the US, Europe, and India - enabling asynchronous collaboration through documentation-first practices, clear technical communication, and empowered ownership. Passionate about building psychologically safe, high-performing engineering cultures while driving technical strategy, operational excellence, architecture, reliability, and scalable event-driven systems.
 
-Active open-source contributor to production projects used by millions of developers - with merged work in **Grafana** (accessibility/UI) and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Grafana**, and **Supabase**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers — with merged work in **Grafana** (accessibility/UI) and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Grafana**, **Supabase**, and **GitLab**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
@@ -31,6 +31,8 @@ Active open-source contributor to production projects used by millions of develo
   [`#191`](https://github.com/supabase/agent-skills/pull/191) · [`#192`](https://github.com/supabase/agent-skills/pull/192) · [`#193`](https://github.com/supabase/agent-skills/pull/193) · [`#230`](https://github.com/supabase/agent-skills/pull/230) · [`#247`](https://github.com/supabase/agent-skills/pull/247)
 - **Supabase postgres-meta** — Python 3.9 type generation support  
   [`supabase/postgres-meta#1094`](https://github.com/supabase/postgres-meta/pull/1094)
+- **GitLab** — fix Mattermost notification attachment color  
+  [`gitlab-org/gitlab!247937`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/247937)
 
 ---
 
