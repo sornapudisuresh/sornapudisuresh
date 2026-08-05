@@ -4,9 +4,9 @@ Engineering Leader and Certified Scrum Master with 19+ years of experience build
 
 Led the growth of a 43-engineer organization from inception while delivering products contributing 90% of company revenue and serving 10M+ monthly unique sessions across Europe. Improved platform reliability from 99% to 99.95%, reduced production defects by 75%, and optimized cloud infrastructure costs by 30% through engineering excellence, AI-assisted development, and modern cloud-native architectures.
 
-Experienced in leading remote-first, globally distributed engineering teams across the US, Europe, and India — enabling asynchronous collaboration through documentation-first practices, clear technical communication, and empowered ownership. Passionate about building psychologically safe, high-performing engineering cultures while driving technical strategy, operational excellence, architecture, reliability, and scalable event-driven systems.
+Experienced in leading remote-first, globally distributed engineering teams across the US, Europe, and India - enabling asynchronous collaboration through documentation-first practices, clear technical communication, and empowered ownership. Passionate about building psychologically safe, high-performing engineering cultures while driving technical strategy, operational excellence, architecture, reliability, and scalable event-driven systems.
 
-Active open-source contributor to production projects used by millions of developers — with merged work in **Grafana** (accessibility/UI) and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Grafana**, and **Supabase**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers - with merged work in **Grafana** (accessibility/UI) and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Grafana**, and **Supabase**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
