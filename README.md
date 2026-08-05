@@ -32,7 +32,7 @@ Focus: observability, developer platforms, and cloud-native tooling.
 
 ## Stack
 
-TypeScript · Go · Documentation · GitHub / GitLab workflows · Accessibility
+TypeScript · Java · Spring Boot · React · Go · PostgreSQL · Documentation · GitHub / GitLab workflows · Accessibility
 
 ---
 
