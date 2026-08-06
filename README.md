@@ -6,7 +6,7 @@ Led the growth of a 43-engineer organization from inception while delivering pro
 
 Experienced in leading remote-first, globally distributed engineering teams across the US, Europe, and India - enabling asynchronous collaboration through documentation-first practices, clear technical communication, and empowered ownership. Passionate about building psychologically safe, high-performing engineering cultures while driving technical strategy, operational excellence, architecture, reliability, and scalable event-driven systems.
 
-Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana** (accessibility/UI) and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Grafana**, **Supabase**, and **GitLab**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana** (accessibility and RadialGauge) and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Supabase**, and **GitLab**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
@@ -16,13 +16,13 @@ Active open-source contributor to production projects used by millions of develo
 
 - **Grafana** - accessible noscript fallback when JavaScript is disabled  
   [`grafana/grafana#129891`](https://github.com/grafana/grafana/pull/129891)
+- **Grafana** - RadialGauge overflow clamp for out-of-range values with a neutral point  
+  [`grafana/grafana#130082`](https://github.com/grafana/grafana/pull/130082)
 - **Supabase SSR** - React Router middleware documentation example  
   [`supabase/ssr#274`](https://github.com/supabase/ssr/pull/274)
 
 ### In review
 
-- **Grafana** - RadialGauge overflow clamp for out-of-range values with a neutral point  
-  [`grafana/grafana#130082`](https://github.com/grafana/grafana/pull/130082)
 - **Traefik** - JSON access-log header prefixes  
   [`traefik/traefik#13621`](https://github.com/traefik/traefik/pull/13621)
 - **Traefik** - clarify router TLS vs entrypoint TLS  
