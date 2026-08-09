@@ -1,6 +1,6 @@
 ### Hi, I'm Sornapudi Suresh
 
-I’m an Engineering Leader with 19+ years of experience building, modernizing and scaling SaaS and enterprise software platforms across healthcare, payments, revenue automation and other business-critical domains.
+An Engineering leader specializing in modernizing complex software platforms, scaling distributed systems, and improving reliability and engineering efficiency across cloud-native SaaS, billing and payment platforms.
 
 My strongest area is taking complex or legacy software environments and turning them into scalable, cloud-native platforms that are easier to operate, evolve and grow.
 
