@@ -1,10 +1,30 @@
 ### Hi, I'm Sornapudi Suresh
 
-Engineering Leader and Certified Scrum Master with 19+ years of experience building and scaling cloud-native SaaS platforms, distributed systems, and high-traffic backend applications using Java, Spring Boot, Node.js, AWS, Kubernetes, and PostgreSQL.
+An Engineering leader specializing in modernizing complex software platforms, scaling distributed systems, and improving reliability and engineering efficiency across cloud-native SaaS, billing and payment platforms.
 
-Led the growth of a 43-engineer organization from inception while delivering products contributing 90% of company revenue and serving 10M+ monthly unique sessions across Europe. Improved platform reliability from 99% to 99.95%, reduced production defects by 75%, and optimized cloud infrastructure costs by 30% through engineering excellence, AI-assisted development, and modern cloud-native architectures.
+My strongest area is taking complex or legacy software environments and turning them into scalable, cloud-native platforms that are easier to operate, evolve and grow.
 
-Experienced in leading remote-first, globally distributed engineering teams across the US, Europe, and India - enabling asynchronous collaboration through documentation-first practices, clear technical communication, and empowered ownership. Passionate about building psychologically safe, high-performing engineering cultures while driving technical strategy, operational excellence, architecture, reliability, and scalable event-driven systems.
+Over the years, I’ve led modernization initiatives involving monolith decomposition, microservices, distributed systems, API and event-driven architectures, cloud migration, platform reliability and engineering automation. 
+
+I enjoy working at the intersection of architecture, engineering execution and business outcomes - particularly where the systems are complex, highly integrated and operationally critical.
+
+Some of the areas I bring deep hands-on leadership experience in:
+• Application & Platform Modernization - modernizing legacy applications, reducing technical debt and evolving monolithic systems toward modular, cloud-native architectures.
+
+• Distributed Systems & Microservices - designing and scaling Java/Spring Boot services, APIs, event-driven workflows and multi-tenant SaaS platforms.
+
+• Billing, Invoicing & Payments - building complex billing and payment workflows, integrations and settlement processes with a strong focus on correctness, idempotency, reliability and automation.
+
+• SRE & Engineering Reliability - improving availability, observability, incident response, operational readiness, automation and engineering practices around production systems.
+
+• Cloud & Engineering Efficiency - Multi cloud Azure/AWS/Kubernetes modernization, architecture optimization, 
+resource right-sizing and engineering cost optimization.
+
+• Engineering Leadership - building and scaling high-performing engineering teams, coaching engineers and leaders, establishing engineering standards, improving delivery predictability and partnering closely with Product, Architecture and business stakeholders.
+
+I also actively use AI-assisted engineering tools and explore AI-native approaches to software development, automation and developer productivity. I see AI as an accelerator for strong engineering fundamentals - not a replacement for architecture, reliability, product thinking and sound engineering judgment.
+
+Core areas: Platform Engineering | Application Modernization | Cloud Transformation | Distributed Systems | Microservices | SRE | Reliability Engineering | Billing & Payments | SaaS | Azure | AWS | Kubernetes | Java | Spring Boot | Engineering Efficiency | AI-Assisted Development
 
 Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana** (accessibility and RadialGauge) and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Supabase**, and **GitLab**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
