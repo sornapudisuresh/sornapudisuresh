@@ -31,7 +31,7 @@ Active open-source contributor to production projects used by millions of develo
   [`#191`](https://github.com/supabase/agent-skills/pull/191) · [`#192`](https://github.com/supabase/agent-skills/pull/192) · [`#193`](https://github.com/supabase/agent-skills/pull/193) · [`#230`](https://github.com/supabase/agent-skills/pull/230) · [`#247`](https://github.com/supabase/agent-skills/pull/247)
 - **Supabase postgres-meta** - Python 3.9 type generation support  
   [`supabase/postgres-meta#1094`](https://github.com/supabase/postgres-meta/pull/1094)
-- **GitLab** - fix Mattermost notification attachment color  
+- **GitLab** - fix Mattermost notification attachment color (**approved**, waiting on green CI to merge)  
   [`gitlab-org/gitlab!247937`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/247937)
 
 ---
