@@ -26,7 +26,7 @@ I also actively use AI-assisted engineering tools and explore AI-native approach
 
 Core areas: Platform Engineering | Application Modernization | Cloud Transformation | Distributed Systems | Microservices | SRE | Reliability Engineering | Billing & Payments | SaaS | Azure | AWS | Kubernetes | Java | Spring Boot | Engineering Efficiency | AI-Assisted Development
 
-Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana** (accessibility and RadialGauge) and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Supabase**, and **GitLab**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Supabase**, and **GitLab**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
@@ -40,13 +40,13 @@ Active open-source contributor to production projects used by millions of develo
   [`grafana/grafana#130082`](https://github.com/grafana/grafana/pull/130082)
 - **Supabase SSR** - React Router middleware documentation example  
   [`supabase/ssr#274`](https://github.com/supabase/ssr/pull/274)
+- **Traefik** - clarify router TLS replaces entrypoint TLS  
+  [`traefik/traefik#13630`](https://github.com/traefik/traefik/pull/13630)
 
 ### In review
 
 - **Traefik** - JSON access-log header prefixes  
   [`traefik/traefik#13621`](https://github.com/traefik/traefik/pull/13621)
-- **Traefik** - clarify router TLS vs entrypoint TLS  
-  [`traefik/traefik#13630`](https://github.com/traefik/traefik/pull/13630)
 - **Supabase** - agent-skills documentation and guidance fixes  
   [`#191`](https://github.com/supabase/agent-skills/pull/191) · [`#192`](https://github.com/supabase/agent-skills/pull/192) · [`#193`](https://github.com/supabase/agent-skills/pull/193) · [`#230`](https://github.com/supabase/agent-skills/pull/230) · [`#247`](https://github.com/supabase/agent-skills/pull/247)
 - **Supabase postgres-meta** - Python 3.9 type generation support  
