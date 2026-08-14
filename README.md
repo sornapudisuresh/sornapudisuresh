@@ -26,7 +26,7 @@ I also actively use AI-assisted engineering tools and explore AI-native approach
 
 Core areas: Platform Engineering | Application Modernization | Cloud Transformation | Distributed Systems | Microservices | SRE | Reliability Engineering | Billing & Payments | SaaS | Azure | AWS | Kubernetes | Java | Spring Boot | Engineering Efficiency | AI-Assisted Development
 
-Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Supabase**, and **GitLab**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Supabase**, **GitLab**, and **WordPress / WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
@@ -45,6 +45,8 @@ Active open-source contributor to production projects used by millions of develo
 
 ### In review
 
+- **WooCommerce Storefront** - remove obsolete `.eot` font URLs causing 404s  
+  [`woocommerce/storefront#2215`](https://github.com/woocommerce/storefront/pull/2215)
 - **Traefik** - JSON access-log header prefixes  
   [`traefik/traefik#13621`](https://github.com/traefik/traefik/pull/13621)
 - **Supabase** - agent-skills documentation and guidance fixes  
@@ -54,14 +56,22 @@ Active open-source contributor to production projects used by millions of develo
 - **GitLab** - fix Mattermost notification attachment color (**approved**, waiting on green CI to merge)  
   [`gitlab-org/gitlab!247937`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/247937)
 
+### WordPress / WooCommerce portfolio
+
+- **Harbor Commerce** - WooCommerce-ready WordPress block theme  
+  [`sornapudisuresh/harbor-commerce`](https://github.com/sornapudisuresh/harbor-commerce)
+- **Harbor Delivery Estimate** - WooCommerce plugin for configurable delivery windows on product, cart, and checkout  
+  [`sornapudisuresh/harbor-delivery-estimate`](https://github.com/sornapudisuresh/harbor-delivery-estimate)
+
 ---
 
 ## Stack
 
-TypeScript · Java · Spring Boot · Node.js · PHP · Laravel · Wordpress · React · Go · PostgreSQL · Docker · Kubernetes · Observability · Documentation · GitHub / GitLab workflows · Accessibility
+TypeScript · Java · Spring Boot · Node.js · PHP · Laravel · WordPress · WooCommerce · React · Go · PostgreSQL · Docker · Kubernetes · Observability · Documentation · GitHub / GitLab workflows · Accessibility
 
 ---
 
 ## Links
 
 - GitHub: [sornapudisuresh](https://github.com/sornapudisuresh)
+- WordPress.org: [sureshsornapudi09](https://profiles.wordpress.org/sureshsornapudi09/)
