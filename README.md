@@ -26,7 +26,7 @@ I also actively use AI-assisted engineering tools and explore AI-native approach
 
 Core areas: Platform Engineering | Application Modernization | Cloud Transformation | Distributed Systems | Microservices | SRE | Reliability Engineering | Billing & Payments | SaaS | Azure | AWS | Kubernetes | Java | Spring Boot | Engineering Efficiency | AI-Assisted Development
 
-Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **Traefik**, **Supabase**, **GitLab**, and **WordPress / WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **WordPress Core**, **Traefik**, **Supabase**, **GitLab**, and **WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
@@ -45,6 +45,8 @@ Active open-source contributor to production projects used by millions of develo
 
 ### In review
 
+- **WordPress Core** - refresh Media Library tile `aria-label` when attachment model loads  
+  [`WordPress/wordpress-develop#13053`](https://github.com/WordPress/wordpress-develop/pull/13053) · [Trac #65852](https://core.trac.wordpress.org/ticket/65852)
 - **WooCommerce Storefront** - remove obsolete `.eot` font URLs causing 404s  
   [`woocommerce/storefront#2215`](https://github.com/woocommerce/storefront/pull/2215)
 - **Traefik** - JSON access-log header prefixes  
