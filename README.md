@@ -58,7 +58,7 @@ Active open-source contributor to production projects used by millions of develo
 
 ## Stack
 
-TypeScript · Java · Spring Boot · Node.js · PHP · Laravel · React · Go · PostgreSQL · Docker · Kubernetes · Observability · Documentation · GitHub / GitLab workflows · Accessibility
+TypeScript · Java · Spring Boot · Node.js · PHP · Laravel · Wordpress · React · Go · PostgreSQL · Docker · Kubernetes · Observability · Documentation · GitHub / GitLab workflows · Accessibility
 
 ---
 
