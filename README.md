@@ -26,7 +26,7 @@ I also actively use AI-assisted engineering tools and explore AI-native approach
 
 Core areas: Platform Engineering | Application Modernization | Cloud Transformation | Distributed Systems | Microservices | SRE | Reliability Engineering | Billing & Payments | SaaS | Azure | AWS | Kubernetes | Java | Spring Boot | Engineering Efficiency | AI-Assisted Development
 
-Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **WordPress Core**, **Traefik**, **Supabase**, **GitLab**, and **WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **SigNoz**, **WordPress Core**, **Traefik**, **Supabase**, **GitLab**, and **WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
@@ -45,16 +45,14 @@ Active open-source contributor to production projects used by millions of develo
 
 ### In review
 
+- **SigNoz** - add Pagerly notification channel docs (Prometheus Alertmanager webhook)  
+  [`SigNoz/signoz.io#4265`](https://github.com/SigNoz/signoz.io/pull/4265) · [issue #13019](https://github.com/SigNoz/signoz/issues/13019)
 - **WordPress Core** - refresh Media Library tile `aria-label` when attachment model loads  
   [`WordPress/wordpress-develop#13053`](https://github.com/WordPress/wordpress-develop/pull/13053) · [Trac #65852](https://core.trac.wordpress.org/ticket/65852)
-- **WooCommerce Storefront** - remove obsolete `.eot` font URLs causing 404s  
-  [`woocommerce/storefront#2215`](https://github.com/woocommerce/storefront/pull/2215)
 - **Traefik** - JSON access-log header prefixes  
   [`traefik/traefik#13621`](https://github.com/traefik/traefik/pull/13621)
 - **Supabase** - agent-skills documentation and guidance fixes  
   [`#191`](https://github.com/supabase/agent-skills/pull/191) · [`#192`](https://github.com/supabase/agent-skills/pull/192) · [`#193`](https://github.com/supabase/agent-skills/pull/193) · [`#230`](https://github.com/supabase/agent-skills/pull/230) · [`#247`](https://github.com/supabase/agent-skills/pull/247)
-- **Supabase postgres-meta** - Python 3.9 type generation support  
-  [`supabase/postgres-meta#1094`](https://github.com/supabase/postgres-meta/pull/1094)
 - **GitLab** - fix Mattermost notification attachment color (**approved**, waiting on green CI to merge)  
   [`gitlab-org/gitlab!247937`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/247937)
 
