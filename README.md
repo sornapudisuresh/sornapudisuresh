@@ -26,7 +26,7 @@ I also actively use AI-assisted engineering tools and explore AI-native approach
 
 Core areas: Platform Engineering | Application Modernization | Cloud Transformation | Distributed Systems | Microservices | SRE | Reliability Engineering | Billing & Payments | SaaS | Azure | AWS | Kubernetes | Java | Spring Boot | Engineering Efficiency | AI-Assisted Development
 
-Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **SigNoz**, **WordPress Core**, **Traefik**, **Supabase**, **GitLab**, and **WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **GitLab**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **SigNoz**, **WordPress Core**, **Traefik**, **Supabase**, and **WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
@@ -42,6 +42,8 @@ Active open-source contributor to production projects used by millions of develo
   [`supabase/ssr#274`](https://github.com/supabase/ssr/pull/274)
 - **Traefik** - clarify router TLS replaces entrypoint TLS  
   [`traefik/traefik#13630`](https://github.com/traefik/traefik/pull/13630)
+- **GitLab** - fix Mattermost notification attachment colors (6-digit hex for Mattermost compatibility)  
+  [`gitlab-org/gitlab!247937`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/247937)
 
 ### In review
 
@@ -53,8 +55,6 @@ Active open-source contributor to production projects used by millions of develo
   [`traefik/traefik#13621`](https://github.com/traefik/traefik/pull/13621)
 - **Supabase** - agent-skills documentation and guidance fixes  
   [`#191`](https://github.com/supabase/agent-skills/pull/191) · [`#192`](https://github.com/supabase/agent-skills/pull/192) · [`#193`](https://github.com/supabase/agent-skills/pull/193) · [`#230`](https://github.com/supabase/agent-skills/pull/230) · [`#247`](https://github.com/supabase/agent-skills/pull/247)
-- **GitLab** - fix Mattermost notification attachment color (**approved**, waiting on green CI to merge)  
-  [`gitlab-org/gitlab!247937`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/247937)
 
 ### WordPress / WooCommerce portfolio
 
@@ -74,4 +74,6 @@ TypeScript · Java · Spring Boot · Node.js · PHP · Laravel · WordPress · W
 ## Links
 
 - GitHub: [sornapudisuresh](https://github.com/sornapudisuresh)
+- GitLab: [sornapudisuresh](https://gitlab.com/sornapudisuresh)
+- Contributor platform: [sornapudisuresh](https://contributors.gitlab.com/users/sornapudisuresh)
 - WordPress.org: [sureshsornapudi09](https://profiles.wordpress.org/sureshsornapudi09/)
