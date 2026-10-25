@@ -26,7 +26,7 @@ I also actively use AI-assisted engineering tools and explore AI-native approach
 
 Core areas: Platform Engineering | Application Modernization | Cloud Transformation | Distributed Systems | Microservices | SRE | Reliability Engineering | Billing & Payments | SaaS | Azure | AWS | Kubernetes | Java | Spring Boot | Engineering Efficiency | AI-Assisted Development
 
-Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **GitLab**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **SigNoz**, **WordPress Core**, **Traefik**, **Supabase**, and **WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
+Active open-source contributor to production projects used by millions of developers, with merged work in **Grafana**, **GitLab**, **SigNoz**, **Traefik**, and **Supabase SSR**, plus ongoing contributions to **GitLab**, **Traefik**, **Supabase**, **Grafana**, and **WooCommerce**. I use OSS to stay hands-on with code review, modern tooling, and the communities behind the platforms I care about.
 
 ---
 
@@ -34,23 +34,35 @@ Active open-source contributor to production projects used by millions of develo
 
 ### Merged
 
-- **Grafana** - accessible noscript fallback when JavaScript is disabled  
-  [`grafana/grafana#129891`](https://github.com/grafana/grafana/pull/129891)
-- **Grafana** - RadialGauge overflow clamp for out-of-range values with a neutral point  
-  [`grafana/grafana#130082`](https://github.com/grafana/grafana/pull/130082)
-- **Supabase SSR** - React Router middleware documentation example  
-  [`supabase/ssr#274`](https://github.com/supabase/ssr/pull/274)
-- **Traefik** - clarify router TLS replaces entrypoint TLS  
-  [`traefik/traefik#13630`](https://github.com/traefik/traefik/pull/13630)
+- **GitLab** - fix curl `--url` in group relations export API docs  
+  [`gitlab-org/gitlab!260622`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/260622)
+- **SigNoz** - add Pagerly notification channel docs (Prometheus Alertmanager webhook)  
+  [`SigNoz/signoz.io#4265`](https://github.com/SigNoz/signoz.io/pull/4265)
 - **GitLab** - fix Mattermost notification attachment colors (6-digit hex for Mattermost compatibility)  
   [`gitlab-org/gitlab!247937`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/247937)
+- **Traefik** - clarify router TLS replaces entrypoint TLS  
+  [`traefik/traefik#13630`](https://github.com/traefik/traefik/pull/13630)
+- **Grafana** - RadialGauge overflow clamp for out-of-range values with a neutral point  
+  [`grafana/grafana#130082`](https://github.com/grafana/grafana/pull/130082)
+- **Grafana** - accessible noscript fallback when JavaScript is disabled  
+  [`grafana/grafana#129891`](https://github.com/grafana/grafana/pull/129891)
+- **Supabase SSR** - React Router middleware documentation example  
+  [`supabase/ssr#274`](https://github.com/supabase/ssr/pull/274)
 
 ### In review
 
-- **SigNoz** - add Pagerly notification channel docs (Prometheus Alertmanager webhook)  
-  [`SigNoz/signoz.io#4265`](https://github.com/SigNoz/signoz.io/pull/4265) · [issue #13019](https://github.com/SigNoz/signoz/issues/13019)
-- **WordPress Core** - refresh Media Library tile `aria-label` when attachment model loads  
-  [`WordPress/wordpress-develop#13053`](https://github.com/WordPress/wordpress-develop/pull/13053) · [Trac #65852](https://core.trac.wordpress.org/ticket/65852)
+- **GitLab** - correct Debian 12 proposed last supported GitLab version  
+  [`gitlab-org/gitlab!261037`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/261037)
+- **GitLab** - opt out of GitHub OAuth expiring tokens for import docs  
+  [`gitlab-org/gitlab!264708`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264708)
+- **GitLab** - clarify Dedicated for Government is for US agencies  
+  [`gitlab-org/gitlab!264709`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264709)
+- **GitLab** - correct `GIT_STRATEGY` empty hook behavior docs  
+  [`gitlab-org/gitlab!264386`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264386)
+- **Grafana** - trim whitespace from login and email  
+  [`grafana/grafana#130619`](https://github.com/grafana/grafana/pull/130619)
+- **Grafana** - accessible name for panel description info control  
+  [`grafana/grafana#134069`](https://github.com/grafana/grafana/pull/134069)
 - **Traefik** - JSON access-log header prefixes  
   [`traefik/traefik#13621`](https://github.com/traefik/traefik/pull/13621)
 - **Supabase** - agent-skills documentation and guidance fixes  
