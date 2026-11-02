@@ -34,6 +34,8 @@ Active open-source contributor to production projects used by millions of develo
 
 ### Merged
 
+- **GitLab** - clarify Dedicated for Government is for US agencies  
+  [`gitlab-org/gitlab!264709`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264709)
 - **GitLab** - fix curl `--url` in group relations export API docs  
   [`gitlab-org/gitlab!260622`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/260622)
 - **SigNoz** - add Pagerly notification channel docs (Prometheus Alertmanager webhook)  
@@ -51,12 +53,14 @@ Active open-source contributor to production projects used by millions of develo
 
 ### In review
 
+- **GitLab** - recommend database-wide `ANALYZE` after GitLab and Postgres upgrades  
+  [`gitlab-org/gitlab!267184`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/267184)
+- **GitLab** - list AI Catalog-rejected `AgentComponent` fields for custom flows  
+  [`gitlab-org/gitlab!267185`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/267185)
 - **GitLab** - correct Debian 12 proposed last supported GitLab version  
   [`gitlab-org/gitlab!261037`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/261037)
 - **GitLab** - opt out of GitHub OAuth expiring tokens for import docs  
   [`gitlab-org/gitlab!264708`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264708)
-- **GitLab** - clarify Dedicated for Government is for US agencies  
-  [`gitlab-org/gitlab!264709`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264709)
 - **GitLab** - correct `GIT_STRATEGY` empty hook behavior docs  
   [`gitlab-org/gitlab!264386`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264386)
 - **Grafana** - trim whitespace from login and email  
@@ -88,4 +92,5 @@ TypeScript · Java · Spring Boot · Node.js · PHP · Laravel · WordPress · W
 - GitHub: [sornapudisuresh](https://github.com/sornapudisuresh)
 - GitLab: [sornapudisuresh](https://gitlab.com/sornapudisuresh)
 - Contributor platform: [sornapudisuresh](https://contributors.gitlab.com/users/sornapudisuresh)
+- GitLab contributor leaderboard: **[#170](https://contributors.gitlab.com/leaderboard)** (460 points, past 3 months)
 - WordPress.org: [sureshsornapudi09](https://profiles.wordpress.org/sureshsornapudi09/)
