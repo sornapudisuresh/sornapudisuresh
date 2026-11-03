@@ -34,6 +34,8 @@ Active open-source contributor to production projects used by millions of develo
 
 ### Merged
 
+- **GitLab** - correct `GIT_STRATEGY` empty hook behavior docs  
+  [`gitlab-org/gitlab!264386`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264386)
 - **GitLab** - clarify Dedicated for Government is for US agencies  
   [`gitlab-org/gitlab!264709`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264709)
 - **GitLab** - fix curl `--url` in group relations export API docs  
@@ -61,8 +63,6 @@ Active open-source contributor to production projects used by millions of develo
   [`gitlab-org/gitlab!261037`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/261037)
 - **GitLab** - opt out of GitHub OAuth expiring tokens for import docs  
   [`gitlab-org/gitlab!264708`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264708)
-- **GitLab** - correct `GIT_STRATEGY` empty hook behavior docs  
-  [`gitlab-org/gitlab!264386`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264386)
 - **Grafana** - trim whitespace from login and email  
   [`grafana/grafana#130619`](https://github.com/grafana/grafana/pull/130619)
 - **Grafana** - accessible name for panel description info control  
