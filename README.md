@@ -34,6 +34,10 @@ Active open-source contributor to production projects used by millions of develo
 
 ### Merged
 
+- **GitLab** - correct Debian 12 proposed last supported GitLab version  
+  [`gitlab-org/gitlab!261037`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/261037)
+- **GitLab** - opt out of GitHub OAuth expiring tokens for import docs  
+  [`gitlab-org/gitlab!264708`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264708)
 - **GitLab** - correct `GIT_STRATEGY` empty hook behavior docs  
   [`gitlab-org/gitlab!264386`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264386)
 - **GitLab** - clarify Dedicated for Government is for US agencies  
@@ -59,10 +63,6 @@ Active open-source contributor to production projects used by millions of develo
   [`gitlab-org/gitlab!267184`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/267184)
 - **GitLab** - list AI Catalog-rejected `AgentComponent` fields for custom flows  
   [`gitlab-org/gitlab!267185`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/267185)
-- **GitLab** - correct Debian 12 proposed last supported GitLab version  
-  [`gitlab-org/gitlab!261037`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/261037)
-- **GitLab** - opt out of GitHub OAuth expiring tokens for import docs  
-  [`gitlab-org/gitlab!264708`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/264708)
 - **Grafana** - trim whitespace from login and email  
   [`grafana/grafana#130619`](https://github.com/grafana/grafana/pull/130619)
 - **Grafana** - accessible name for panel description info control  
